@@ -12,8 +12,13 @@
 
 ----
 
-## 什么是YOLO
+## Strided Convolutions
 
+## Object Locolization
 
+## Intersection over union
 
+## Nonmax Suppression
+
+## YOLO
 
