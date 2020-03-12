@@ -4,3 +4,4 @@ images/
 __pycache__/
 *.avi
 output_video/
+.vscode/
